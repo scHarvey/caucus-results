@@ -1,0 +1,11 @@
+{
+  "name": "caucus-results",
+  "version": "1.0.0",
+  "description": "Attempt to get usable data from IDP Results Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clint Harvey",
+  "license": "ISC"
+}
